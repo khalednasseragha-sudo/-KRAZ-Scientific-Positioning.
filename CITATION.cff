@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "KRAZ Abstract Computational Engine"
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: Nasseragha
+    given-names: Khaled
+version: 1.0
+date-released: 2026-01-15
+license: Other
+license-url: records/18219961
+repository-code: https://github.com/khalednasseragha-sudo/-KRAZ-Scientific-Positioning.
+abstract: >
+  KRAZ is an abstract computational framework for studying signal convergence,
+  structural stability, and determinism under mathematically constrained regimes.
