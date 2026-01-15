@@ -1,3 +1,7 @@
+This specification is frozen and cryptographically referenced.
+No modifications are permitted after DOI assignment.
+
+
 # FORMAL OPERATIONAL SPECIFICATION (v1.0)
 **Version:** 1.0
 **Date:** 2026-01-14
@@ -104,3 +108,4 @@ To strictly adhere to the **Non-Clinical Mandate** (AGENTS.md) and established s
 2.  **No Diagnostic Capability:** The metrics (Entropy, Stability, PLV) have **NO** diagnostic, clinical, or medical value. They are internal engine performance indicators only.
 3.  **No Cognitive Claims:** The system possesses no cognitive properties, consciousness, or intent. Terms like "prediction" refer strictly to Kalman filter mathematical extrapolation.
 4.  **No Safety Implication:** The term "Stability" refers to numerical convergence. It implies nothing about the safety of any physical or biological system.
+
